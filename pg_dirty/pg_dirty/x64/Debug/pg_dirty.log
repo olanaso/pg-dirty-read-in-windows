@@ -1,0 +1,21 @@
+﻿Build started 04/05/2021 03:12:47 p.m..
+     1>Project "D:\aplicativos\pg_dirty\pg_dirty\pg_dirty.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "x64\Debug\pg_dirty.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\aplicativos\pg_dirty\x64\Debug\pg_dirty.dll" /NOLOGO /LIBPATH:"C:\Program Files\PostgreSQL\10\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib postgres.lib libintl.lib /MANIFEST /ManifestFile:"x64\Debug\pg_dirty.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\aplicativos\pg_dirty\x64\Debug\pg_dirty.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\aplicativos\pg_dirty\x64\Debug\pg_dirty.lib" /MACHINE:X64 /DLL x64\Debug\dirtyread_tupconvert.obj
+         x64\Debug\pg_dirtyread.obj
+            Creating library D:\aplicativos\pg_dirty\x64\Debug\pg_dirty.lib and object D:\aplicativos\pg_dirty\x64\Debug\pg_dirty.exp
+         pg_dirty.vcxproj -> D:\aplicativos\pg_dirty\x64\Debug\pg_dirty.dll
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\aplicativos\pg_dirty\x64\Debug\pg_dirty.dll;#2" /manifest x64\Debug\pg_dirty.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\pg_dirty.unsuccessfulbuild".
+         Touching "x64\Debug\pg_dirty.lastbuildstate".
+     1>Done Building Project "D:\aplicativos\pg_dirty\pg_dirty\pg_dirty.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.63
