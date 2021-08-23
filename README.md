@@ -4,8 +4,8 @@
 ## Muy importante
 
 - Al eliminar datos de una tabla con un delete, es alli donde la biblioteca [pg-dirtyread](https://github.com/df7cb/pg_dirtyread) entra en acción.
-- Los siguiente que debo realizar es detener el servicio de postgres y copiar la carpeta "data" usualmente en esta direccion [C:\Program Files\PostgreSQL\12\data]actualizando por seguridad lo antes posible
-- Tener en cuenta que la eliminacion de datos tambien se pueden ocacionar debido a problemas fisicos del disco duro, alli no entra en accion este ejemplo, es mas complejo ya es un problemas fisico.
+- Los siguiente que debo realizar es detener el servicio de postgres y copiar la carpeta "data" usualmente en esta direccion [C:\Program Files\PostgreSQL\12\data] por seguridad lo antes posible, cosa que si malogras puedes devolver a su estado inicial restaurando de nuevo la carpeta.
+-- Tener en cuenta que la eliminacion de datos tambien se pueden ocacionar debido a problemas fisicos del disco duro, alli no entra en accion este ejemplo, es mas complejo ya es un problemas fisico.
 
 
 ## Empecemos
