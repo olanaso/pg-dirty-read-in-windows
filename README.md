@@ -17,6 +17,8 @@
 En trabajo
 
 ## Instalacion
+
+### Instalacion en PostgresSql
 en creacion
 ## Pruebas
 
